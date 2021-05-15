@@ -2,12 +2,10 @@
  Getting Started:
  ==============
 
-To get started with Octavi-OS, you'll need to get familiar with [Repo](https://source.android.com/source/using-repo.html) and Version Control with [Git](https://source.android.com/source/version-control.html).
-
-To initialize your local repository, use a command like this:
+To get started with TCW OS, building for testing purpose.
 
 ```bash
-repo init -u https://github.com/Octavi-OS/platform_manifest.git -b 11
+repo init -u https://github.com/tcwghub/tcw_ROM_Manifest -b 11
 
 ```
 
